@@ -1,4 +1,4 @@
-FROM dspace/dspace:7.6.1
+FROM dspace/dspace:dspace-7_x-jdk11-test
 
 EXPOSE 8080
 
